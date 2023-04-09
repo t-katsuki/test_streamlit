@@ -1,6 +1,7 @@
 import streamlit as st
 
-st.title("hello")
+st.title("hello, 更新事項を確認")
+st.markdown("# Head1")
 
 st.checkbox("チェックボックス") #引数に入れることでboolを返す
 st.button("ボタン") #引数に入れるとboolで返す
